@@ -22,7 +22,7 @@ void print(int len, int wth) {
 void input(int &len, int &wth)
 {
   cout<<"Enter length :";
-  cin>>len;
+  cin >> len;
   cout<<"Enter Width :";
-  cin>>wth;
+  cin >> wth;
 }
